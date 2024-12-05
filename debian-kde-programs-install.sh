@@ -14,7 +14,6 @@ sudo apt-get install -y stress
 sudo apt-get install -y gnome-disk-utility
 sudo apt-get install -y inxi
 sudo apt-get install -y dmidecode
-sudo apt-get install -y libva-dev
 sudo apt-get install -y cups
 sudo apt-get install -y system-config-printer
 sudo apt-get install -y printer-driver-all
