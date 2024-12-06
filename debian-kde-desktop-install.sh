@@ -10,7 +10,6 @@ sudo apt-get install -y konsole
 sudo apt-get install -y sddm
 sudo apt-get install -y network-manager
 sudo apt-get install -y wpasupplicant
-sudo apt-get install -y curl
 sudo apt-get install -y synaptic
 sudo apt-get install -y systemd-timesyncd
 
