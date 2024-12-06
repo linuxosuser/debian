@@ -47,5 +47,7 @@ sudo apt-get install -y bluez-tools
 sudo apt-get install -y ufw
 sudo apt-get install -y gufw
 sudo apt-get install -y plasma-firewall
+sudo apt-get install -y fonts-liberation
+sudo apt-get install -y fonts-ubuntu
 
 echo 'A TELEPÍTÉS BEFEJEZŐDÖTT, KÉREM, HOGY INDÍTSA ÚJRA A SZÁMÍTÓGÉPÉT!'
