@@ -17,6 +17,9 @@ sudo apt-get install -y gimp
 sudo apt-get install -y gimp-help-hu
 sudo apt-get install -y gnome-disk-utility
 sudo apt-get install -y vainfo
+sudo apt-get install -y debian-goodies
+sudo apt-get install -y moreutils
+sudo apt-get install -y net-tools
 sudo apt-get install -y lm-sensors
 sudo apt-get install -y psensor
 sudo apt-get install -y stress
