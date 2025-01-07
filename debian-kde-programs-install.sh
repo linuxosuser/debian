@@ -13,6 +13,8 @@ sudo apt-get install -y kio-fuse
 sudo apt-get install -y kio-gdrive
 sudo apt-get install -y kio-audiocd
 sudo apt-get install -y kaccounts-integration
+sudo apt-get install -y qapt-deb-installer
+sudo apt-get install -y qapt-utils
 sudo apt-get install -y gimp
 sudo apt-get install -y gimp-help-hu
 sudo apt-get install -y gnome-disk-utility
@@ -47,6 +49,7 @@ sudo apt-get install -y bluez-alsa-utils
 sudo apt-get install -y bluez-cups
 sudo apt-get install -y bluez-firmware
 sudo apt-get install -y bluez-tools
+sudo apt-get install -y pulseaudio-module-bluetooth
 sudo apt-get install -y ufw
 sudo apt-get install -y gufw
 sudo apt-get install -y plasma-firewall
