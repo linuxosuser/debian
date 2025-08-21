@@ -37,7 +37,6 @@ sudo apt-get install -y print-manager
 sudo apt-get install -y sane
 sudo apt-get install -y libsane
 sudo apt-get install -y sane-utils
-sudo apt-get install -y simple-scan
 sudo apt-get install -y skanlite
 sudo apt-get install -y avahi-daemon
 sudo apt-get install -y avahi-utils
@@ -49,7 +48,6 @@ sudo apt-get install -y bluez-alsa-utils
 sudo apt-get install -y bluez-cups
 sudo apt-get install -y bluez-firmware
 sudo apt-get install -y bluez-tools
-sudo apt-get install -y pulseaudio-module-bluetooth
 sudo apt-get install -y ufw
 sudo apt-get install -y gufw
 sudo apt-get install -y plasma-firewall
