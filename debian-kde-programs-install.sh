@@ -15,6 +15,7 @@ sudo apt-get install -y webext-ublock-origin-firefox
 sudo apt-get install -y curl
 sudo apt-get install -y ktorrent
 sudo apt-get install -y clementine
+sudo apt-get install -y krecorder
 sudo apt-get install -y smplayer
 sudo apt-get install -y kate
 sudo apt-get install -y kamoso
