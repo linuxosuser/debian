@@ -7,6 +7,7 @@ sudo apt-get install -y pipewire-v4l2
 sudo apt-get install -y gstreamer1.0-pipewire
 sudo apt-get install -y alsa-firmware-loaders
 sudo apt-get install -y alsa-tools
+sudo apt-get install -y alsa-utils
 sudo apt-get install -y gstreamer1.0-plugins-*
 sudo apt-get install -y firefox-esr
 sudo apt-get install -y firefox-esr-l10n-hu
