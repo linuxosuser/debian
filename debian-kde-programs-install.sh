@@ -9,6 +9,9 @@ sudo apt-get install -y alsa-firmware-loaders
 sudo apt-get install -y alsa-tools
 sudo apt-get install -y alsa-utils
 sudo apt-get install -y gstreamer1.0-plugins-*
+sudo apt-get install -y mesa-vulkan-drivers
+sudo apt-get install -y vulkan-tools
+sudo apt-get install -y libvulkan1
 sudo apt-get install -y firefox-esr
 sudo apt-get install -y firefox-esr-l10n-hu
 sudo apt-get install -y webext-ublock-origin-firefox
