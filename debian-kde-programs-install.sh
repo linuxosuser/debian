@@ -25,6 +25,16 @@ sudo apt-get install -y kio-audiocd
 sudo apt-get install -y kaccounts-integration
 sudo apt-get install -y qapt-deb-installer
 sudo apt-get install -y qapt-utils
+sudo apt-get install -y unzip
+sudo apt-get install -y p7zip-full
+sudo apt-get install -y p7zip-rar
+sudo apt-get install -y rar
+sudo apt-get install -y unrar
+sudo apt-get install -y tar
+sudo apt-get install -y gzip
+sudo apt-get install -y bzip2
+sudo apt-get install -y xz-utils
+sudo apt-get install -y ark
 sudo apt-get install -y gimp
 sudo apt-get install -y gimp-help-hu
 sudo apt-get install -y gnome-disk-utility
@@ -58,6 +68,7 @@ sudo apt-get install -y bluez-alsa-utils
 sudo apt-get install -y bluez-cups
 sudo apt-get install -y bluez-firmware
 sudo apt-get install -y bluez-tools
+sudo apt-get install -y rfkill
 sudo apt-get install -y ufw
 sudo apt-get install -y gufw
 sudo apt-get install -y plasma-firewall
