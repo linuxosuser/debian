@@ -8,6 +8,7 @@ sudo apt-get install -y gstreamer1.0-pipewire
 sudo apt-get install -y alsa-firmware-loaders
 sudo apt-get install -y alsa-tools
 sudo apt-get install -y alsa-utils
+sudo apt-get install -y libavcodec-extra
 sudo apt-get install -y gstreamer1.0-plugins-*
 sudo apt-get install -y mesa-vulkan-drivers
 sudo apt-get install -y vulkan-tools
@@ -16,18 +17,10 @@ sudo apt-get install -y firefox-esr
 sudo apt-get install -y firefox-esr-l10n-hu
 sudo apt-get install -y webext-ublock-origin-firefox
 sudo apt-get install -y curl
-sudo apt-get install -y ktorrent
+sudo apt-get install -y qbittorrent
 sudo apt-get install -y clementine
-sudo apt-get install -y krecorder
+sudo apt-get install -y gnome-sound-recorder
 sudo apt-get install -y smplayer
-sudo apt-get install -y kate
-sudo apt-get install -y kamoso
-sudo apt-get install -y kio-fuse
-sudo apt-get install -y kio-gdrive
-sudo apt-get install -y kio-audiocd
-sudo apt-get install -y kaccounts-integration
-sudo apt-get install -y qapt-deb-installer
-sudo apt-get install -y qapt-utils
 sudo apt-get install -y unzip
 sudo apt-get install -y p7zip-full
 sudo apt-get install -y p7zip-rar
@@ -37,7 +30,7 @@ sudo apt-get install -y tar
 sudo apt-get install -y gzip
 sudo apt-get install -y bzip2
 sudo apt-get install -y xz-utils
-sudo apt-get install -y ark
+sudo apt-get install -y file-roller
 sudo apt-get install -y gimp
 sudo apt-get install -y gimp-help-hu
 sudo apt-get install -y gnome-disk-utility
@@ -56,11 +49,10 @@ sudo apt-get install -y system-config-printer
 sudo apt-get install -y printer-driver-all
 sudo apt-get install -y printer-driver-cups-pdf
 sudo apt-get install -y printer-driver-hpijs
-sudo apt-get install -y print-manager
 sudo apt-get install -y sane
 sudo apt-get install -y libsane
 sudo apt-get install -y sane-utils
-sudo apt-get install -y skanlite
+sudo apt-get install -y simple-scan
 sudo apt-get install -y avahi-daemon
 sudo apt-get install -y avahi-utils
 sudo apt-get install -y libnss-mdns
@@ -74,7 +66,6 @@ sudo apt-get install -y bluez-tools
 sudo apt-get install -y rfkill
 sudo apt-get install -y ufw
 sudo apt-get install -y gufw
-sudo apt-get install -y plasma-firewall
 sudo apt-get install -y fonts-*
 sudo apt-get install -y desktop-file-utils
 
