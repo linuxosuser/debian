@@ -66,6 +66,7 @@ sudo apt-get install -y bluez-tools
 sudo apt-get install -y rfkill
 sudo apt-get install -y ufw
 sudo apt-get install -y gufw
+sudo apt-get install -y systemd-timesyncd
 sudo apt-get install -y fonts-*
 sudo apt-get install -y desktop-file-utils
 
