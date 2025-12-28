@@ -33,7 +33,15 @@ sudo apt-get install -y xz-utils
 sudo apt-get install -y file-roller
 sudo apt-get install -y gimp
 sudo apt-get install -y gimp-help-hu
+sudo apt-get install -y shotwell
+sudo apt-get install -y gnome-screenshot
+sudo apt-get install -y gnome-calculator
+sudo apt-get install -y gnome-calendar
 sudo apt-get install -y gnome-disk-utility
+sudo apt-get install -y gnome-system-monitor
+sudo apt-get install -y gedit
+sudo apt-get install -y gedit-plugins
+sudo apt-get install -y evince
 sudo apt-get install -y vainfo
 sudo apt-get install -y debian-goodies
 sudo apt-get install -y moreutils
@@ -63,7 +71,7 @@ sudo apt-get install -y bluez-alsa-utils
 sudo apt-get install -y bluez-cups
 sudo apt-get install -y bluez-firmware
 sudo apt-get install -y bluez-tools
-sudo apt-get install -y rfkill
+sudo apt-get install -y blueman
 sudo apt-get install -y ufw
 sudo apt-get install -y gufw
 sudo apt-get install -y systemd-timesyncd
