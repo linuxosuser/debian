@@ -14,3 +14,5 @@ sudo apt-get install -y xdg-desktop-portal-xapp
 sudo apt-get install -y network-manager
 sudo apt-get install -y network-manager-gnome
 sudo apt-get install -y wpasupplicant
+
+echo 'A TELEPÍTÉS BEFEJEZŐDÖTT, KÉREM, HOGY INDÍTSA ÚJRA A SZÁMÍTÓGÉPÉT!'
