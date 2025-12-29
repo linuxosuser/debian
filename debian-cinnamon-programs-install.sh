@@ -8,8 +8,12 @@ sudo apt-get install -y gstreamer1.0-pipewire
 sudo apt-get install -y alsa-firmware-loaders
 sudo apt-get install -y alsa-tools
 sudo apt-get install -y alsa-utils
+sudo apt-get install -y alsa-topology-conf
+sudo apt-get install -y alsa-ucm-conf
+sudo apt-get install -y libasound2-plugins
 sudo apt-get install -y libavcodec-extra
 sudo apt-get install -y gstreamer1.0-plugins-*
+sudo apt-get install -y ffmpeg
 sudo apt-get install -y mesa-vulkan-drivers
 sudo apt-get install -y vulkan-tools
 sudo apt-get install -y libvulkan1
@@ -56,7 +60,6 @@ sudo apt-get install -y cups
 sudo apt-get install -y system-config-printer
 sudo apt-get install -y printer-driver-all
 sudo apt-get install -y printer-driver-cups-pdf
-sudo apt-get install -y printer-driver-hpijs
 sudo apt-get install -y sane
 sudo apt-get install -y libsane
 sudo apt-get install -y sane-utils
@@ -67,15 +70,19 @@ sudo apt-get install -y libnss-mdns
 sudo apt-get install -y avahi-autoipd
 sudo apt-get install -y bluetooth
 sudo apt-get install -y bluez
-sudo apt-get install -y bluez-alsa-utils
-sudo apt-get install -y bluez-cups
-sudo apt-get install -y bluez-firmware
 sudo apt-get install -y bluez-tools
+sudo apt-get install -y bluez-firmware
+sudo apt-get install -y bluez-cups
+sudo apt-get install -y bluez-obexd
+sudo apt-get install -y libspa-0.2-bluetooth
 sudo apt-get install -y blueman
 sudo apt-get install -y ufw
 sudo apt-get install -y gufw
 sudo apt-get install -y systemd-timesyncd
-sudo apt-get install -y fonts-*
+sudo apt-get install -y fonts-dejavu
+sudo apt-get install -y fonts-liberation
+sudo apt-get install -y fonts-noto-core
+sudo apt-get install -y ttf-mscorefonts-installer
 sudo apt-get install -y desktop-file-utils
 
 echo 'A TELEPÍTÉS BEFEJEZŐDÖTT, KÉREM, HOGY INDÍTSA ÚJRA A SZÁMÍTÓGÉPÉT!'
