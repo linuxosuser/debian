@@ -73,8 +73,8 @@ sudo apt-get install -y avahi-autoipd
 sudo apt-get install -y bluetooth
 sudo apt-get install -y bluez
 sudo apt-get install -y bluez-tools
-sudo apt-get install -y bluez-cups
 sudo apt-get install -y bluez-firmware
+sudo apt-get install -y bluez-cups
 sudo apt-get install -y bluez-obexd
 sudo apt-get install -y pulseaudio-module-bluetooth
 sudo apt-get install -y blueman
