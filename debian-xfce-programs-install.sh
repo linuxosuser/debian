@@ -88,6 +88,8 @@ sudo apt-get install -y fonts-dejavu
 sudo apt-get install -y fonts-liberation
 sudo apt-get install -y fonts-noto-core
 sudo apt-get install -y ttf-mscorefonts-installer
+sudo apt-get install -y arc-theme
+sudo apt-get install -y papirus-icon-theme
 sudo apt-get install -y desktop-file-utils
 
 echo 'A TELEPÍTÉS BEFEJEZŐDÖTT, KÉREM, HOGY INDÍTSA ÚJRA A SZÁMÍTÓGÉPÉT!'
