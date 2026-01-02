@@ -50,8 +50,11 @@ sudo apt-get install -y vainfo
 sudo apt-get install -y debian-goodies
 sudo apt-get install -y moreutils
 sudo apt-get install -y net-tools
+sudo apt-get install -y wimtools
 sudo apt-get install -y lm-sensors
 sudo apt-get install -y psensor
+sudo apt-get install -y thermald
+sudo apt-get install -y power-profiles-daemon
 sudo apt-get install -y stress
 sudo apt-get install -y inxi
 sudo apt-get install -y dmidecode
