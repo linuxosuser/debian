@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo apt-get install -y linux-headers-amd64
+sudo apt-get install -y intel-microcode
 sudo apt-get install -y cinnamon
 sudo apt-get install -y cinnamon-l10n
 sudo apt-get install -y lightdm
