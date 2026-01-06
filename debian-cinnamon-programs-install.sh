@@ -22,7 +22,7 @@ sudo apt-get install -y firefox-esr-l10n-hu
 sudo apt-get install -y webext-ublock-origin-firefox
 sudo apt-get install -y curl
 sudo apt-get install -y qbittorrent
-sudo apt-get install -y clementine
+sudo apt-get install -y rhythmbox
 sudo apt-get install -y gnome-sound-recorder
 sudo apt-get install -y smplayer
 sudo apt-get install -y unzip
@@ -58,6 +58,7 @@ sudo apt-get install -y power-profiles-daemon
 sudo apt-get install -y stress
 sudo apt-get install -y inxi
 sudo apt-get install -y dmidecode
+sudo apt-get install -y smartmontools
 sudo apt-get install -y htop
 sudo apt-get install -y cups
 sudo apt-get install -y system-config-printer
