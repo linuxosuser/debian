@@ -82,6 +82,7 @@ sudo apt-get install -y bluez-cups
 sudo apt-get install -y bluez-obexd
 sudo apt-get install -y pulseaudio-module-bluetooth
 sudo apt-get install -y blueman
+sudo sed -i 's/#AutoEnable=true/AutoEnable=true/' /etc/bluetooth/main.conf
 sudo apt-get install -y ufw
 sudo apt-get install -y gufw
 sudo apt-get install -y systemd-timesyncd
