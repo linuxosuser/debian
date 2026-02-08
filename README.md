@@ -8,4 +8,4 @@ cd ~felhasználónév/debian # A "felhasználónév" példát helyettesítse a v
 
 chmod +x *.sh
 
-sudo ./fájlnév.sh # A "fájlnév" példát helyettesítse a szkript valódi fájlnevével!
+./fájlnév.sh # A "fájlnév" példát helyettesítse a szkript valódi fájlnevével!
