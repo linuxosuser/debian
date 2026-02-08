@@ -1,99 +1,99 @@
 #!/bin/bash
 
-sudo apt-get install -y pipewire-audio
-sudo apt-get install -y pipewire-audio-client-libraries
-sudo apt-get install -y pipewire-libcamera
-sudo apt-get install -y pipewire-v4l2
-sudo apt-get install -y gstreamer1.0-pipewire
-sudo apt-get install -y alsa-firmware-loaders
-sudo apt-get install -y alsa-tools
-sudo apt-get install -y alsa-utils
-sudo apt-get install -y alsa-topology-conf
-sudo apt-get install -y alsa-ucm-conf
-sudo apt-get install -y libasound2-plugins
-sudo apt-get install -y libavcodec-extra
-sudo apt-get install -y gstreamer1.0-plugins-*
-sudo apt-get install -y ffmpeg
-sudo apt-get install -y mesa-vulkan-drivers
-sudo apt-get install -y mesa-va-drivers
-sudo apt-get install -y libgl1-mesa-dri
-sudo apt-get install -y libglx-mesa0
-sudo apt-get install -y mesa-utils
-sudo apt-get install -y libvulkan1
-sudo apt-get install -y vulkan-tools
-sudo apt-get install -y firefox-esr
-sudo apt-get install -y firefox-esr-l10n-hu
-sudo apt-get install -y webext-ublock-origin-firefox
-sudo apt-get install -y curl
-sudo apt-get install -y qbittorrent
-sudo apt-get install -y rhythmbox
-sudo apt-get install -y gnome-sound-recorder
-sudo apt-get install -y smplayer
-sudo apt-get install -y unzip
-sudo apt-get install -y p7zip-full
-sudo apt-get install -y p7zip-rar
-sudo apt-get install -y rar
-sudo apt-get install -y unrar
-sudo apt-get install -y tar
-sudo apt-get install -y gzip
-sudo apt-get install -y bzip2
-sudo apt-get install -y xz-utils
-sudo apt-get install -y file-roller
-sudo apt-get install -y gimp
-sudo apt-get install -y gimp-help-hu
-sudo apt-get install -y shotwell
-sudo apt-get install -y gnome-screenshot
-sudo apt-get install -y gnome-calculator
-sudo apt-get install -y gnome-calendar
-sudo apt-get install -y gnome-disk-utility
-sudo apt-get install -y gnome-system-monitor
-sudo apt-get install -y gedit
-sudo apt-get install -y gedit-plugins
-sudo apt-get install -y evince
-sudo apt-get install -y vainfo
-sudo apt-get install -y debian-goodies
-sudo apt-get install -y moreutils
-sudo apt-get install -y net-tools
-sudo apt-get install -y wimtools
-sudo apt-get install -y lm-sensors
-sudo apt-get install -y psensor
-sudo apt-get install -y thermald
-sudo apt-get install -y power-profiles-daemon
-sudo apt-get install -y stress
-sudo apt-get install -y inxi
-sudo apt-get install -y dmidecode
-sudo apt-get install -y smartmontools
-sudo apt-get install -y htop
-sudo apt-get install -y cups
-sudo apt-get install -y system-config-printer
-sudo apt-get install -y printer-driver-all
-sudo apt-get install -y printer-driver-cups-pdf
-sudo apt-get install -y sane
-sudo apt-get install -y libsane
-sudo apt-get install -y sane-utils
-sudo apt-get install -y simple-scan
-sudo apt-get install -y avahi-daemon
-sudo apt-get install -y avahi-utils
-sudo apt-get install -y libnss-mdns
-sudo apt-get install -y avahi-autoipd
-sudo apt-get install -y bluetooth
-sudo apt-get install -y bluez
-sudo apt-get install -y bluez-tools
-sudo apt-get install -y bluez-firmware
-sudo apt-get install -y bluez-cups
-sudo apt-get install -y bluez-obexd
-sudo apt-get install -y libspa-0.2-bluetooth
-sudo apt-get install -y blueman
-sudo sed -i 's/#AutoEnable=true/AutoEnable=true/' /etc/bluetooth/main.conf
-sudo apt-get install -y ufw
-sudo apt-get install -y gufw
-sudo apt-get install -y systemd-timesyncd
-sudo apt-get install -y fonts-dejavu
-sudo apt-get install -y fonts-liberation
-sudo apt-get install -y fonts-noto-core
-sudo apt-get install -y ttf-mscorefonts-installer
-sudo apt-get install -y arc-theme
-sudo apt-get install -y papirus-icon-theme
-sudo apt-get install -y desktop-file-utils
+apt-get install -y pipewire-audio
+apt-get install -y pipewire-audio-client-libraries
+apt-get install -y pipewire-libcamera
+apt-get install -y pipewire-v4l2
+apt-get install -y gstreamer1.0-pipewire
+apt-get install -y alsa-firmware-loaders
+apt-get install -y alsa-tools
+apt-get install -y alsa-utils
+apt-get install -y alsa-topology-conf
+apt-get install -y alsa-ucm-conf
+apt-get install -y libasound2-plugins
+apt-get install -y libavcodec-extra
+apt-get install -y gstreamer1.0-plugins-*
+apt-get install -y ffmpeg
+apt-get install -y mesa-vulkan-drivers
+apt-get install -y mesa-va-drivers
+apt-get install -y libgl1-mesa-dri
+apt-get install -y libglx-mesa0
+apt-get install -y mesa-utils
+apt-get install -y libvulkan1
+apt-get install -y vulkan-tools
+apt-get install -y firefox-esr
+apt-get install -y firefox-esr-l10n-hu
+apt-get install -y webext-ublock-origin-firefox
+apt-get install -y curl
+apt-get install -y qbittorrent
+apt-get install -y rhythmbox
+apt-get install -y gnome-sound-recorder
+apt-get install -y smplayer
+apt-get install -y unzip
+apt-get install -y p7zip-full
+apt-get install -y p7zip-rar
+apt-get install -y rar
+apt-get install -y unrar
+apt-get install -y tar
+apt-get install -y gzip
+apt-get install -y bzip2
+apt-get install -y xz-utils
+apt-get install -y file-roller
+apt-get install -y gimp
+apt-get install -y gimp-help-hu
+apt-get install -y shotwell
+apt-get install -y gnome-screenshot
+apt-get install -y gnome-calculator
+apt-get install -y gnome-calendar
+apt-get install -y gnome-disk-utility
+apt-get install -y gnome-system-monitor
+apt-get install -y gedit
+apt-get install -y gedit-plugins
+apt-get install -y evince
+apt-get install -y vainfo
+apt-get install -y debian-goodies
+apt-get install -y moreutils
+apt-get install -y net-tools
+apt-get install -y wimtools
+apt-get install -y lm-sensors
+apt-get install -y psensor
+apt-get install -y thermald
+apt-get install -y power-profiles-daemon
+apt-get install -y stress
+apt-get install -y inxi
+apt-get install -y dmidecode
+apt-get install -y smartmontools
+apt-get install -y htop
+apt-get install -y cups
+apt-get install -y system-config-printer
+apt-get install -y printer-driver-all
+apt-get install -y printer-driver-cups-pdf
+apt-get install -y sane
+apt-get install -y libsane
+apt-get install -y sane-utils
+apt-get install -y simple-scan
+apt-get install -y avahi-daemon
+apt-get install -y avahi-utils
+apt-get install -y libnss-mdns
+apt-get install -y avahi-autoipd
+apt-get install -y bluetooth
+apt-get install -y bluez
+apt-get install -y bluez-tools
+apt-get install -y bluez-firmware
+apt-get install -y bluez-cups
+apt-get install -y bluez-obexd
+apt-get install -y libspa-0.2-bluetooth
+apt-get install -y blueman
+sed -i 's/#AutoEnable=true/AutoEnable=true/' /etc/bluetooth/main.conf
+apt-get install -y ufw
+apt-get install -y gufw
+apt-get install -y systemd-timesyncd
+apt-get install -y fonts-dejavu
+apt-get install -y fonts-liberation
+apt-get install -y fonts-noto-core
+apt-get install -y ttf-mscorefonts-installer
+apt-get install -y arc-theme
+apt-get install -y papirus-icon-theme
+apt-get install -y desktop-file-utils
 
 echo 'A TELEPÍTÉS BEFEJEZŐDÖTT, KÉREM, HOGY INDÍTSA ÚJRA A SZÁMÍTÓGÉPÉT!'
