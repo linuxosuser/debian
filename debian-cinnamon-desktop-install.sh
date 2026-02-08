@@ -1,21 +1,21 @@
 #!/bin/bash
 
-sudo apt-get install -y linux-headers-amd64
-sudo apt-get install -y intel-microcode
-sudo apt-get install -y cinnamon
-sudo apt-get install -y cinnamon-l10n
-sudo apt-get install -y lightdm
-sudo apt-get install -y lightdm-gtk-greeter
-sudo apt-get install -y nemo
-sudo apt-get install -y gnome-terminal
-sudo apt-get install -y gnome-keyring
-sudo apt-get install -y libpam-gnome-keyring
-sudo apt-get install -y synaptic
-sudo apt-get install -y xdg-desktop-portal
-sudo apt-get install -y xdg-desktop-portal-gtk
-sudo apt-get install -y xdg-desktop-portal-xapp
-sudo apt-get install -y network-manager
-sudo apt-get install -y network-manager-gnome
-sudo apt-get install -y wpasupplicant
+apt-get install -y linux-headers-amd64
+apt-get install -y intel-microcode
+apt-get install -y cinnamon
+apt-get install -y cinnamon-l10n
+apt-get install -y lightdm
+apt-get install -y lightdm-gtk-greeter
+apt-get install -y nemo
+apt-get install -y gnome-terminal
+apt-get install -y gnome-keyring
+apt-get install -y libpam-gnome-keyring
+apt-get install -y synaptic
+apt-get install -y xdg-desktop-portal
+apt-get install -y xdg-desktop-portal-gtk
+apt-get install -y xdg-desktop-portal-xapp
+apt-get install -y network-manager
+apt-get install -y network-manager-gnome
+apt-get install -y wpasupplicant
 
 echo 'A TELEPÍTÉS BEFEJEZŐDÖTT, KÉREM, HOGY INDÍTSA ÚJRA A SZÁMÍTÓGÉPÉT!'
