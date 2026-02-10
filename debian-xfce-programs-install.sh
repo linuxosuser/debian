@@ -33,6 +33,8 @@ apt-get install -y qbittorrent
 apt-get install -y rhythmbox
 apt-get install -y gnome-sound-recorder
 apt-get install -y smplayer
+apt-get install -y fuse
+apt-get install -y libfuse2
 apt-get install -y unzip
 apt-get install -y p7zip-full
 apt-get install -y p7zip-rar
