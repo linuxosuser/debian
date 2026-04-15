@@ -2,7 +2,7 @@
 
 git clone https://github.com/linuxosuser/debian.git
 
-sudo -i # Írja be a felhasználó jelszavát
+sudo -i # Írja be a felhasználó jelszavát!
 
 cd ~felhasználónév/debian # A "felhasználónév" példát helyettesítse a valódi felhasználónévvel!
 
