@@ -70,8 +70,8 @@ apt install -y cups
 apt install -y system-config-printer
 apt install -y printer-driver-all
 apt install -y printer-driver-cups-pdf
-apt install -y sane
-apt install -y libsane
+apt install -y xsane
+apt install -y libsane1
 apt install -y sane-utils
 apt install -y simple-scan
 apt install -y avahi-daemon
