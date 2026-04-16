@@ -96,6 +96,9 @@ apt install -y fonts-noto-core
 apt install -y ttf-mscorefonts-installer
 apt install -y arc-theme
 apt install -y papirus-icon-theme
-apt install -y desktop-file-utils
+
+apt autoremove --purge -y
+apt autoclean
+apt clean
 
 echo 'A TELEPÍTÉS BEFEJEZŐDÖTT, KÉREM, HOGY INDÍTSA ÚJRA A SZÁMÍTÓGÉPÉT!'
