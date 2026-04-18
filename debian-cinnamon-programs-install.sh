@@ -26,7 +26,7 @@ apt install -y firefox-esr-l10n-hu
 apt install -y webext-ublock-origin-firefox
 apt install -y curl
 apt install -y qbittorrent
-apt install -y rhythmbox
+apt install -y strawberry
 apt install -y gnome-sound-recorder
 apt install -y smplayer
 apt install -y fuse
@@ -96,6 +96,7 @@ apt install -y fonts-noto-core
 apt install -y ttf-mscorefonts-installer
 apt install -y arc-theme
 apt install -y papirus-icon-theme
+apt install -y breeze-cursor-theme
 
 apt autoremove --purge -y
 apt autoclean
