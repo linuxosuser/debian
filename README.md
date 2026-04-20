@@ -14,7 +14,7 @@ chmod +x *.sh
 
 # Audio kernelparamétereinek beállítása a GRUB konfigurációs fájlban
 
-sudo szövegszerkesztő_neve/etc/default/grub # A "szövegszerkesztő_neve" példát helyettesítse a szövegszerkesztő valódi nevével!
+sudo szövegszerkesztő_neve/etc/default/grub # A "szövegszerkesztő_neve" példát helyettesítse a szövegszerkesztő valódi nevével és szerkessze a GRUB_CMDLINE_LINUX_DEFAULT sort a következőképpen:
 
 GRUB_CMDLINE_LINUX_DEFAULT="quiet splash snd_hda_intel.model=headset-mode snd_hda_intel.power_save=0 snd_hda_intel.power_save_controller=N"
 
