@@ -16,7 +16,7 @@ chmod +x *.sh
 
 sudo szövegszerkesztő_neve/etc/default/grub # A "szövegszerkesztő_neve" példát helyettesítse a szövegszerkesztő valódi nevével és szerkessze a GRUB_CMDLINE_LINUX_DEFAULT sort a következőképpen:
 
-GRUB_CMDLINE_LINUX_DEFAULT="quiet splash snd_hda_intel.model=headset-mode snd_hda_intel.power_save=0 snd_hda_intel.power_save_controller=N"
+GRUB_CMDLINE_LINUX_DEFAULT="quiet splash snd_hda_intel.model=alc233-eapd snd_hda_intel.power_save=0 snd_hda_intel.power_save_controller=N"
 
 A konfigurációs fájl mentése és kilépés a szövegszerkesztőből # Minden szövegszerkesztőnél más billentyűkombinációval kell menteni a konfigurációs fájlt és kilépni a szövegszerkesztőből.
 
