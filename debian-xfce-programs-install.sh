@@ -98,7 +98,7 @@ apt install -y fonts-noto-core
 apt install -y ttf-mscorefonts-installer
 apt install -y arc-theme
 apt install -y papirus-icon-theme
-apt install -y breeze-cursor-theme
+apt install -y bibata-cursor-theme
 
 apt autoremove --purge -y
 apt autoclean
