@@ -78,7 +78,6 @@ apt install -y avahi-daemon
 apt install -y avahi-utils
 apt install -y libnss-mdns
 apt install -y avahi-autoipd
-apt install -y bluetooth
 apt install -y bluez
 apt install -y bluez-tools
 apt install -y bluez-firmware
