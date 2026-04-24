@@ -62,7 +62,7 @@ apt install -y wimtools
 apt install -y lm-sensors
 apt install -y psensor
 apt install -y thermald
-apt install -y power-profiles-daemon
+apt install -y tlp
 apt install -y stress
 apt install -y inxi
 apt install -y dmidecode
@@ -80,7 +80,6 @@ apt install -y avahi-daemon
 apt install -y avahi-utils
 apt install -y libnss-mdns
 apt install -y avahi-autoipd
-apt install -y bluetooth
 apt install -y bluez
 apt install -y bluez-tools
 apt install -y bluez-firmware
