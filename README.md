@@ -12,7 +12,7 @@ chmod +x *.sh
 
 
 
-# Audio kernelparamétereinek beállítása a GRUB konfigurációs fájlban
+# Az Intel NUC8i5BEKPA típusú mini PC audio kernelparamétereinek beállítása a GRUB konfigurációs fájlban
 
 sudo szövegszerkesztő_neve/etc/default/grub # A "szövegszerkesztő_neve" példát helyettesítse a szövegszerkesztő valódi nevével és szerkessze a GRUB_CMDLINE_LINUX_DEFAULT sort a következőképpen:
 
@@ -24,7 +24,7 @@ sudo update-grub
 
 sudo reboot
 
-# Az audio sikeres beállításainak ellenőrzése
+# Az Intel NUC8i5BEKPA típusú mini PC audio sikeres beállításainak ellenőrzése
 
 cat /sys/module/snd_hda_intel/parameters/power_save
 
