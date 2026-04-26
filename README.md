@@ -24,7 +24,7 @@ sudo update-grub
 
 sudo reboot
 
-# Az Intel NUC8i5BEKPA típusú mini PC audio sikeres beállításainak ellenőrzése
+# Az Intel NUC8i5BEKPA típusú mini PC audio beállításainak ellenőrzése
 
 cat /sys/module/snd_hda_intel/parameters/power_save
 
